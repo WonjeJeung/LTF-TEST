@@ -1,6 +1,6 @@
-## Large Language Models Still Exhibit Bias in Long Text ([Paper Link](https://arxiv.org/abs/2410.17519), ACL 2025)
+## Large Language Models Still Exhibit Bias in Long Text (ACL 2025)
 
-This repository contains resources for **LTF-TEST**, a benchmark designed to evaluate bias in long-form text generation by large language models.
+This repository contains resources for **LTF-TEST** ([Paper](https://arxiv.org/abs/2410.17519)), a benchmark designed to evaluate bias in long-form text generation by large language models.
 
 ### Dataset
 
